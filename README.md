@@ -16,3 +16,9 @@ Password
 ```
 MYSQL_ROOT_PASSWORD
 ```
+
+## How to create new folder
+You can create new project inside src folder 
+```
+php/src/[your-project]
+```
