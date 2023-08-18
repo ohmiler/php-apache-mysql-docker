@@ -1,6 +1,6 @@
 drop table if exists `users`;
 create table users (
-	id int,
+	id int PRIMARY KEY AUTO_INCREMENT,
 	first_name VARCHAR(50),
 	last_name VARCHAR(50),
 	age int
